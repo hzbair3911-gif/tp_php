@@ -1,5 +1,7 @@
 <?php
-
+// Auteur : Hafida Zbair
+// Objectif : structures de contrôle et boucles
+// Date : 18/10/2026
 header('Content-Type: text/html; charset=utf-8');
 require 'config.php';   // contient SEUIL et la fonction mention()
 

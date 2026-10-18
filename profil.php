@@ -1,6 +1,8 @@
 <?php
 session_start();
-
+// Auteur : Hafida Zbair
+// Objectif : page protégée accessible uniquement aux utilisateurs connectés
+// Date : 18/10/2026
 // Accès sans connexion : redirection vers la page de login
 if (!isset($_SESSION['login'])) {
     header('Location: login.php');

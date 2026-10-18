@@ -1,5 +1,5 @@
 <?php
-// Auteur : Hafida
+// Auteur : Hafida Zbair
 // Objectif : en-tête commun des pages (ouvre le HTML, titre avec ETABLISSEMENT)
 // Date : 18/10/2026
 require_once __DIR__ . '/../config.php';

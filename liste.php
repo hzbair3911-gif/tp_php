@@ -1,5 +1,7 @@
 <?php
-
+// Auteur : Hafida Zbair
+// Objectif : lire data/notes.csv et afficher la liste avec moyennes et mentions
+// Date : 18/10/202
 require 'config.php';
 include 'includes/entete_inc.php';
 include 'includes/menu_inc.php';

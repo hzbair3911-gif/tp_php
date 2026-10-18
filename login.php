@@ -1,6 +1,8 @@
 <?php
 session_start();
-
+// Auteur : Hafida Zbair
+// Objectif : formulaire de connexion avec session, redirection et cookies
+// Date : 18/10/2026
 $erreur = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

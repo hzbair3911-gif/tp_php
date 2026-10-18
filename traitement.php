@@ -1,4 +1,7 @@
 <?php
+// Auteur : Hafida Zbair
+// Objectif : valider les données POST et les enregistrer dans data/notes.csv
+// Date : 18/10/2026
 require 'config.php';
 include 'includes/entete_inc.php';
 include 'includes/menu_inc.php';
