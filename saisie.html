@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Saisie des notes</title>
+</head>
+
+<body>
+    <h1>Saisie des notes (méthode POST)</h1>
+    <form action="traitement.php" method="post">
+        <p><label>Nom : <input type="text" name="nom"></label></p>
+        <p><label>Note info : <input type="number" name="note_info" step="0.25"></label></p>
+        <p><label>Note math : <input type="number" name="note_math" step="0.25"></label></p>
+        <p><input type="submit" value="Enregistrer"></p>
+    </form>
+    <p><a href="liste.php">Voir la liste</a></p>
+</body>
+
+</html>
