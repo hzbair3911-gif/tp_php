@@ -1,6 +1,6 @@
 <?php
 session_start();   // nécessaire pour accéder à la session existante
-// Hafida zbair
+// Auteur : Hafida zbair
 // Objectif : déconnexion, destruction de la session puis redirection vers login.php
 // Date : 18/10/2026
 

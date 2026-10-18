@@ -1,5 +1,5 @@
 <?php
-// Auteur : HAFIDA
+// Auteur : Hafida Zbair
 // Objectif : afficher un message de bienvenue à partir des données GET
 // Date : 18/10/2026
 require 'config.php';
